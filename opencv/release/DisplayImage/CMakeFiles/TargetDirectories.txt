@@ -1,0 +1,1 @@
+/home/sarjak/sarjak_opencv/opencv/release/DisplayImage/CMakeFiles/DisplayImage.dir
